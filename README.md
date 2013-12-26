@@ -4,7 +4,7 @@ Installation
 Download the git-hooks wrapper script from
 https://github.com/icefox/git-hooks and install it in your $PATH, e.g. by
 
-    wget https://github.com/icefox/git-hooks/blob/master/git-hooks -O ~/bin/git-hooks; chmod u+x ~/bin/git-hooks
+    wget https://raw.github.com/icefox/git-hooks/master/git-hooks -O ~/bin/git-hooks; chmod u+x ~/bin/git-hooks
 
 Then install this repository in ~/.git\_hooks:
 
